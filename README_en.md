@@ -4,6 +4,26 @@ This is a customized RSS reading repository created by osmosfeed.
 
 [中文](./README.md)
 
+### What is RSS?
+
+RSS is a kind of promotion technology originated from Netscape, which transmits the content of users' subscription to their communication collaboration format. RSS builds a technical platform for the rapid dissemination of information, making everyone a potential information provider; From the RSS reader's point of view, it is not necessary to consider what it really means, as long as it is simply understood as a convenient information acquisition tool; The main versions are 0.91, 1.0, 2.0
+
+### The origin of RSS
+
+1997 - Dave winer developed scriptingnews. RSS was born.
+
+1999 - Netscape developed RSS 0.90 (supported by scripting News). This is simple XML with an RDF header.
+
+2000 - userland released the formal 0.91 specification
+
+2003 - the official RSS 2.0 specification was released.
+
+### The fall of RSS?
+
+In 2013, as Google announced the closure of RSS subscription service Google Reader; Domestic websites have shut down RSS subscription services;
+
+At present, only a small number of websites or private RSS services are left;
+
 ### Customize the feed
 
 1. In the repository root, open `osmosfeed.yaml` file, click the "Pencil (Edit this file)" button to edit.
