@@ -2,7 +2,7 @@
 
 [English](./README_en.md)
 
-这是一个通过osmosfeed创建的私人定制的RSS阅读的存储库.
+这是一个通过osmosfeed创建的私人定制的RSS阅读的存储库.[已停止RSS推送]
 
 ### 什么是RSS?
 

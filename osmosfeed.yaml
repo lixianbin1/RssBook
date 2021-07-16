@@ -1,6 +1,6 @@
-cacheUrl: https://lixianbin1.github.io/RssBook/cache.json
+# cacheUrl: https://lixianbin1.github.io/RssBook/cache.json
 sources:
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
 #  - href: https://css-tricks.com/feed/
 #  - href: https://www.zhihu.com/rss/
-  - href: http://www.ruanyifeng.com/blog/atom.xml
+#  - href: http://www.ruanyifeng.com/blog/atom.xml
